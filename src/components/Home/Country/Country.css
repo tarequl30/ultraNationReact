@@ -1,0 +1,19 @@
+.countryInfo{
+    border: 1px solid gray;
+    width: 200px;
+    height: 300px;
+    padding: 20px 50px;
+    margin-left: 100px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    background-color: rgba(136, 132, 132, 0.603);
+    float: left;
+}
+button{
+    border: 0px;
+    background-color: rgb(64, 64, 197);
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
